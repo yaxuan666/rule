@@ -7,3 +7,5 @@ payload:
   
   # 域名后缀匹配
   - DOMAIN-SUFFIX,www.reddit.com
+  - DOMAIN-SUFFIX,exhentai.org
+  - DOMAIN-SUFFIX,e-hentai.org
