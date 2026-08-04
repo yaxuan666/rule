@@ -1,0 +1,7 @@
+payload:
+  # 本yaml为直连列表
+  # - DOMAIN-KEYWORD,关键字
+  # - DOMAIN-SUFFIX,网址
+
+  # packyapi
+  - DOMAIN-SUFFIX,cf.api.fan
