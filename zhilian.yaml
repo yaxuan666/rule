@@ -1,7 +1,9 @@
+# NAME: zhilian
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/yaxuan666/rule
+# UPDATED: 2025-06-06 09:15:09
+# DOMAIN: 12
+# DOMAIN-SUFFIX: 5
+# TOTAL: 17
 payload:
-  # 本yaml为直连列表
-  # - DOMAIN-KEYWORD,关键字
-  # - DOMAIN-SUFFIX,网址
-
-  # packyapi
   - DOMAIN-SUFFIX,cf.api.fan
